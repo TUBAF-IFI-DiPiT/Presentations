@@ -8,7 +8,7 @@ narrator: none
 icon:     https://www.dip-it.ovgu.de/dipit_media/Bilder/Marginalbereich/Logo_DiP_iT_wei%C3%9F-height-230-width-230-p-74.png
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/Cross-Lab-Project/presentations/main/GeCon_2022_Adaptability/CrossLab_GeCon2022.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/https://TUBAF-IFI-DiPiT/Presentations/main/DELFI2022/presentation.md)
 
 # Informatikstudierende als Team-player
 <h2>Wie die Integration von Teamarbeit in die Lehre gelingen kann</h2>
