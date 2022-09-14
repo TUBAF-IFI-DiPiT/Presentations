@@ -113,10 +113,10 @@ Das Diagramm fasst die Aktivitäten der Studierenden über 7 Aufgaben zusammen, 
 | Reference          | Link |
 |--------------------|------|
 | Projekt Website    | [https://www.dip-it.ovgu.de/](https://www.dip-it.ovgu.de/) |
-| Aggregations und Analyseframework  | [](https://github.com/TUBAF-IFI-DiPiT/github2pandas)|
-|                                                   | [](https://github.com/TUBAF-IFI-DiPiT/github2pandas_manager) |
+| Aggregations und Analyseframework  | [github2pandas](https://github.com/TUBAF-IFI-DiPiT/github2pandas)|
+|                                                   | [github2pandas_manager](https://github.com/TUBAF-IFI-DiPiT/github2pandas_manager) |
 |  | | 
-| Präsentationsinhalt auf Github | [](https://github.com/TUBAF-IFI-DiPiT/Presentations/tree/main/DELFI2022) |
-| LiaScript Projekt | [](https://liascript.github.io/) |
+| Präsentationsinhalt auf Github | [Delfi2022](https://github.com/TUBAF-IFI-DiPiT/Presentations/tree/main/DELFI2022) |
+| LiaScript Projekt | [https://liascript.github.io/](https://liascript.github.io/) |
 
 > __DiP-iT__ wird durch das Bundesministerium für Bildung und Forschung gefördert. [Link](https://www.wihoforschung.de/wihoforschung/de/bmbf-projektfoerderung/foerderlinien/forschung-zur-digitalen-hochschulbildung/dritte-foerderlinie-zur-digitalen-hochschulbildung/dip-it/dip-it_node.html).
