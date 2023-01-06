@@ -31,14 +31,14 @@ gray: @mark(gray,@0)
       --{{0}}--
 Hi everyone, Sebastian Zug here from TU Bergakademie Freiberg, introducing you to some new Python modules for analyzing student activity in a Github Classroom. The team in Freiberg designed and implemented these packages with our partners from two other German universities: Humboldt Universität zu  Berlin and Otto-von-Guericke University from Magdeburg as part of the "DiP-iT" national research project. We generated this material with Liascript. The content as well as the package repositories you can find under the given links. Let's start with some background information and concepts. Afterwards, we jump into a practical examples.
 
-![github2pandas_manager](../pics/frontpage.png)
+![github2pandas_manager](pics/frontpage.png)
 
 ----------------------------------------------------------
 
 <table>
 <tr>
 <td style="width:30%">
-![Logoanager](../pics/Logo-DiP-iT.png)<!-- width="65%" -->
+![Logoanager](pics/Logo-DiP-iT.png)<!-- width="65%" -->
 </td>
 <td>
 + Technische Universität Bergakademie Freiberg
@@ -287,7 +287,7 @@ this tutorial. Many thanks for this. If you are still unsure about using
 Classrooms, you can find more information in the well-made
 [tutorials](https://www.youtube.com/watch?v=xVVeqIDgCvM).
 
-![GitHubClassroomExample](../pics/GitHubClassroomExample.png)<!-- width="75%" -->
+![GitHubClassroomExample](pics/GitHubClassroomExample.png)<!-- width="75%" -->
 
 
 ### Installation
@@ -371,7 +371,7 @@ GITHUB_API_TOKEN ="ghp_N3nRrqNPEHt0iRhuheasdfsfas9kFxGI42GQfv"
     {{0-1}}
 ********************************************************************************
 
-![GitHubClassroomExample](../pics/GitHubClassroomExample.png)<!-- width="50%" -->
+![GitHubClassroomExample](pics/GitHubClassroomExample.png)<!-- width="50%" -->
 
    --{{0}}--
 Please remember, we named our classroom `GitHubClassroom-Demo` and called the
